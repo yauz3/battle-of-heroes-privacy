@@ -1,4 +1,4 @@
-# Battle of Heroes — Privacy Policy
+# Realm Cards: Heroes — Privacy Policy
 
 This repository hosts the public Privacy Policy and data deletion information for **Battle of Heroes**, a strategy card game for Android.
 
